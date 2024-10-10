@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lansoney.github.io/sitemap.html.gz
+Sitemap: https://lansoney.github.io/app/sitemap.html.gz
+Sitemap: https://lansoney.github.io/assets/sitemap.html.gz
+Sitemap: https://lansoney.github.io/css/sitemap.html.gz
+Sitemap: https://lansoney.github.io/includes/sitemap.html.gz
+Sitemap: https://lansoney.github.io/item/sitemap.html.gz
+Sitemap: https://lansoney.github.io/src/sitemap.html.gz
